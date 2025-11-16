@@ -1,0 +1,1 @@
+[Gamma presentation](https://gamma.app/docs/Microsoft-Azure-fbahaaolqtrzdan)
