@@ -9,3 +9,4 @@ scipy==1.16.3
 statsmodels==0.14.6
 seaborn==0.13.2
 catboost==1.2.8
+pandas-stubs==2.3.3.251201
